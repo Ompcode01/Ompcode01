@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Python, C++, JavaScript, Nodejs, Expressjs, Nextjs, RESTful API, Flask, MongoDB, PostgreSQL<br>👨‍💻 Portfolio: https://omprakash_portfolio.netlify.app/<br>
+🔭 I’m currently working on Python, C++, JavaScript, Nodejs, Expressjs, Nextjs, RESTful API, Flask, MongoDB, PostgreSQL<br>👨‍💻 Portfolio: https://omprakashport.netlify.app/<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omprakash-pandey-88812824b/) 
