@@ -13,9 +13,8 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ompcode01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ompcode01&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Ompcode01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ompcode01&theme=dark&hide_border=false)<br/>
 
 ---
 
